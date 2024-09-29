@@ -4,3 +4,5 @@
 Реализация метода Cross Entropy на клеточном мире
 ### grid_world_dl_q_policy
 Deep Q learning и Policy Gradient на клеточном мире
+### actor_critic
+Алгоритм объединяющий в себе методы оценки состояний и оценки стратегии
