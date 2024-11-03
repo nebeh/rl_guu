@@ -9,6 +9,7 @@
 ## Алгоритмы основанные на стратегии
 ### 05 Cross entropy 
 ### 06 Reinforce, Actor-Critic
-
+# Bandit
+### 07 Многорукий бандит
 
 ## 
